@@ -61,3 +61,8 @@ They could then add a clear “Make an enquiry” button to the club website tha
 ## AI tools used
 
 OpenAI Codex was used as a coding assistant. It helped reorganise the project into separate client and server folders, simplify the Go code, update the server setup, run build checks, and paraphrase this documentation. 
+
+## Demo
+
+https://github.com/user-attachments/assets/4a454bed-f1e8-4e28-9dce-7ad24be74563
+
